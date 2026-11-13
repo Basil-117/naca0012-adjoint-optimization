@@ -1,0 +1,12 @@
+{
+  "chord_in_export_m": 0.6862,
+  "chord_line_incidence_deg": 1.92,
+  "max_thickness_c": 0.0919,
+  "max_thickness_x_c": 0.401,
+  "max_camber_c": 0.0151,
+  "max_camber_x_c": 0.679,
+  "area_c2": 0.06393,
+  "area_ratio_to_naca0012": 0.783,
+  "baseline_max_thickness_c": 0.12,
+  "baseline_max_thickness_x_c": 0.301
+}
