@@ -7,7 +7,7 @@ and gradient-based optimization (pyOptSparse / SNOPT).
 
 **Tools:** MACH-Aero (run in the MDOLab Docker image) · Python · Tecplot 360
 
-📄 **Full technical report:** [`report/Airfoil_Optimization_Report.pdf`](report/Airfoil_Optimization_Report.pdf)
+
 
 ![Baseline vs optimized](results/figures/shape_comparison.png)
 
